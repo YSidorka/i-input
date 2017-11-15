@@ -1,0 +1,26 @@
+{
+  "name": "i-input-css",
+  "version": "1.0.0",
+  "description": "Simple Radio and Checkbox (CSS only)",
+  "keywords": [
+    "simple",
+    "radio",
+    "checkbox",
+    "css3",
+    "css",
+    "cssonly"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YSidorka/i-input.git"
+  },
+  "author": "ysidorko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YSidorka/i-input/issues"
+  },
+  "homepage": "https://github.com/YSidorka/i-input#readme"
+}
