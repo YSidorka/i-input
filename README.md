@@ -1,12 +1,12 @@
 # i-Input CSS
 
-Simple CSS only input component 
+Simple CSS only Radio and Checkbox 
 
 i-input.css / v1.0.0
 
-### Checkbox and Radio (CSS only)
+### Radio and Checkbox (CSS only)
 
-![example]()
+![example](https://github.com/YSidorka/i-input/blob/master/view.jpg)
 
 #### checkbox
 
