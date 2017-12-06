@@ -2,7 +2,11 @@
 
 Simple CSS only Radio and Checkbox 
 
-i-input.css / v1.0.0
+i-input.css / v1.0.2
+
+ 1.0.2
+- added disable mode
+- refactoring
 
 ### Radio and Checkbox (CSS only)
 
